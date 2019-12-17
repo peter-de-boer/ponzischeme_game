@@ -1,11 +1,11 @@
 import json
-from backend.games.luxuryTile import LuxuryTile
-from backend.games.fundCard import FundCard
-from backend.games.fundingBoard import FundingBoard
-from backend.games.player import Player
-from backend.games.status import Status
-from backend.games.log import Log
-from backend.games.finance import Finance
+from .luxuryTile import LuxuryTile
+from .fundCard import FundCard
+from .fundingBoard import FundingBoard
+from .player import Player
+from .status import Status
+from .log import Log
+from .finance import Finance
 from random import shuffle
 import sys
 

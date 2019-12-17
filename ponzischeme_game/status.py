@@ -1,4 +1,4 @@
-from backend.games.tradeOffer import TradeOffer
+from .tradeOffer import TradeOffer
 
 class Status(object):
     def __init__(self, numPlayers, players, log):

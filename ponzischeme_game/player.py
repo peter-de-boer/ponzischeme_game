@@ -1,4 +1,4 @@
-from backend.games.fundCard import FundCard
+from .fundCard import FundCard
 
 class Player(object):
     def __init__(self, player):
