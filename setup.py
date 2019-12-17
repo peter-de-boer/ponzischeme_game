@@ -11,7 +11,7 @@ setuptools.setup(
     name='ponzischeme_game',
     license="MIT",
     description='ponzischeme_game is a python package for handling the game state of the game Ponzi Scheme.',
-    version='v0.0.1',
+    version='v0.0.2',
     long_description=README,
     url='https://github.com/peter-de-boer/ponzischeme_game',
     packages=setuptools.find_packages(),
